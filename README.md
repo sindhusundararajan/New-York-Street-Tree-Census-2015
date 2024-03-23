@@ -1,5 +1,3 @@
-# New-York-Street-Tree-Census-2015
-
 # New York Street Tree Census 2015 Tableau Dashboard
 
 ## Overview
